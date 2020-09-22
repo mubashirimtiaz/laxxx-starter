@@ -1,0 +1,9 @@
+{
+  "name": "laxxx",
+  "version": "1.0.0",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "lax.js": "^1.2.5"
+  }
+}
